@@ -8,7 +8,9 @@
 
 ## Resources | مصادر
 
-You can view the slides in this [folder]('./slides')
+- [Slides]('./slides')
+- [NodeJS.dev](https://nodejs.dev)
+- [Learn You Node](https://github.com/workshopper/learnyounode)
 
 ## System Requirements | متطلبات النظام
 
